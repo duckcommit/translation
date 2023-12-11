@@ -1,4 +1,4 @@
 {
-    "welcome_header": "Poda!",
-    "hello_name": "Heyloooooo {userName}"
+    "welcome_header": "Hallo Welt!",
+    "hello_name": "Hallo {userName}"
 }
